@@ -121,6 +121,6 @@
             "user_editable": true,
             "rules": "required|string",
             "field_type": "text"
-        }
+
     ]
 }
